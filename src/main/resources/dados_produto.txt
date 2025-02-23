@@ -1,0 +1,9 @@
+id=1
+codigoEan=7891234567890
+descricao=Smartphone Sansung
+marca=Marca A
+modelo=Modelo B
+preco=1500.00
+categoria=Eletrônicos
+urlFoto=http://exemplo.com/foto.jpg
+estoque=10
